@@ -20,7 +20,7 @@ Segment customer orders by age (Teenager, Adult, Senior) and compare behavior by
 - Monthly Order Distribution:
 Understand fluctuations in customer engagement throughout the year.
 
-- Dashboard Interaction <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/aditya-kumaarr/Excel_Retail_Sales_p1/blob/main/assets/dashboard.png">View Dashboard</a>
 
 ## Process
 - Imported and cleaned the data using Excel tools.
@@ -37,7 +37,7 @@ Supports gender-wise and region-wise drill-downs.
 
 ## Dashboard
 
-![Screenshot (495)](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
+![Screenshot (495)](https://github.com/aditya-kumaarr/Excel_Retail_Sales_p1/blob/main/assets/dashboard.png)
 
 ## Project Insight
 - Women customers contribute 64% of total sales, indicating higher purchase behavior compared to men.
