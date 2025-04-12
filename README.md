@@ -7,35 +7,51 @@ The objective of this project is to analyze retail sales data from a local chain
 - <a href="https://github.com/aditya-kumaarr/Excel_Retail_Sales_p1/blob/main/Raw_Retail_Sales_Analysis.xlsx">Dataset</a>
 
 ## Questions (KPIs)
-- Compare the sales and orders using single chart.
-- Which month got the highest sales and orders?
-- Who purchased more - Men or Women?
-- What are different order status in 2022?
-- List top 10 states contributingto the sales?
-- Relation between age and gender based on number of orders.
-- Which Channel is contributing maximum to the sales?
-- Highest selling category?
-- Percentage of Total Orders delivered
+  1.	Total Monthly Sales vs Order Count:
+Analyze how sales and order volume trend throughout the year.
+	2.	Sales by Gender:
+Understand the contribution of men vs women in overall revenue.
+	3.	Order Status Breakdown:
+Track how many orders were delivered, returned, refunded, or cancelled.
+	4.	Top 5 Performing States by Sales:
+Identify which Indian states generated the highest revenue.
+	5.	Orders by Age Group & Gender:
+Segment customer orders by age (Teenager, Adult, Senior) and compare behavior by gender.
+	6.	Monthly Order Distribution:
+Understand fluctuations in customer engagement throughout the year.
 
 - Dashboard Interaction <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard</a>
 
 ## Process
-- Verify data for any missing values and anomalies, and sort out the same.
-- Made sure data is consistent and clean with respect to data type, data format and values used.
-- Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+•	Imported and cleaned the data using Excel tools.
+•	Built pivot tables for each metric and visualized them using Excel chart tools.
+•	Applied slicers and custom formatting to create an interactive experience.
+•	Designed the dashboard to be print-ready for reporting and stakeholder review.
+
+## Dashboard Features
+•	Clean and Interactive Layout:
+Summarizes insights in visually compelling charts and graphs.
+•	Dynamic Filtering:
+Supports gender-wise and region-wise drill-downs.
+•	Color-coded charts for easy comparison between categories.
 
 ## Dashboard
 
 ![Screenshot (495)](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
 
 ## Project Insight
-- Women customers are more likely to buy products compared to men (~65%).
-- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
-- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
-- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
-- More than 90% of the products delivered
+•	Women customers contribute 64% of total sales, indicating higher purchase behavior compared to men.
+•	March is the peak sales month, suggesting seasonal or promotional opportunities.
+•	Top-performing states include Maharashtra, Karnataka, and Uttar Pradesh, which collectively drive significant revenue.
+•	Most orders are placed by adults, but teenagers and seniors still represent valuable market segments.
+•	Delivery success rate is high, but there is a notable percentage of returns and cancellations that need to be addressed.
 
 ## Final Conclusion:
-To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
+• To improve the sales of the Local Chain Store, marketing strategies should primarily focus on adult women, who represent the largest customer segment—over 50% of total orders as shown in the Age vs Gender breakdown and 64% of total sales by gender. Additionally, the top-performing states—Maharashtra, Karnataka, and Uttar Pradesh—should be strategically targeted through region-specific offers and promotions.
+• The data also highlights that sales peaked in March but showed a gradual decline from April to December, suggesting a need to re-energize marketing efforts in the latter half of the year through seasonal discounts, loyalty rewards, or festive campaigns.
+• With ‘Delivered’ orders dominating the order status, the store has strong operational reliability, which can be leveraged in promotional messaging. Enhancing engagement with the adult female demographic in the top-performing states—especially during the slower sales months—can drive growth and stabilize monthly order volumes.
+
+## If you'd like to connect or collaborate on data projects, feel free to reach out on: 
+• **LinkedIn**: https://www.linkedin.com/in/aditya-kumar-4a175635b/
+• **Email**: adityaakumaarr@gmail.com
 
