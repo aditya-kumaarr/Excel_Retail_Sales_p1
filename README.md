@@ -1,9 +1,10 @@
-# Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+# Local Chain Store Annual Report (Excel Dashboard)
+
 ## Project Objective
-The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
+The objective of this project is to analyze retail sales data from a local chain store and present key metrics and insights using Microsoft Excel. This includes evaluating monthly sales trends, order performance, demographic-based sales, and geographical sales distribution. The dashboard serves as a comprehensive visual summary to support strategic business decisions.
 
 ## Dataset used
-- <a href="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset</a>
+- <a href="Raw_Retail_Sales_Analysis.xlsx">Dataset</a>
 
 ## Questions (KPIs)
 - Compare the sales and orders using single chart.
