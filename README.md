@@ -4,7 +4,7 @@
 The objective of this project is to analyze retail sales data from a local chain store and present key metrics and insights using Microsoft Excel. This includes evaluating monthly sales trends, order performance, demographic-based sales, and geographical sales distribution. The dashboard serves as a comprehensive visual summary to support strategic business decisions.
 
 ## Dataset used
-- <a href="Raw_Retail_Sales_Analysis.xlsx">Dataset</a>
+- <a href="https://github.com/aditya-kumaarr/Excel_Retail_Sales_p1/blob/main/Raw_Retail_Sales_Analysis.xlsx">Dataset</a>
 
 ## Questions (KPIs)
 - Compare the sales and orders using single chart.
